@@ -1,8 +1,6 @@
 // 121. Best Time To Buy And Sell Stock
 // Time Complexity O(N)
 // Space Complexity O(1)
-// first array question
-
 
 class Solution {
 public:
