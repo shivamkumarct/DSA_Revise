@@ -1,4 +1,4 @@
-// 14. Longest Common Prefix
+// 205. Isomorphic String
 // Time Complexity O(N)
 // Space Complexity O(1)
 
