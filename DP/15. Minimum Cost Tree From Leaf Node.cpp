@@ -76,6 +76,5 @@ public:
 
         int ans = tabulation(arr, maxi);
         return ans;
-
     }
 };
